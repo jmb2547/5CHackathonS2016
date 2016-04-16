@@ -1,2 +1,2 @@
-from chirp import app
+from backend import app
 app.run(debug = True)
